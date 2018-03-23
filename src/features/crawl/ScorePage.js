@@ -39,6 +39,7 @@ export class ScorePage extends Component {
       </button>
 
       {this.props.crawl.scoreMap}
+      //how the hell do you print a map!
       </div>
     );
   }
