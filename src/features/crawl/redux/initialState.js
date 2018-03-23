@@ -8,6 +8,7 @@
 const initialState = {
   ing: [],
   scoreList: [],
+  scoreMap: new Map(),
   scrapePending: false,
   scrapeError: null,
 };
